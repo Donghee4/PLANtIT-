@@ -7,7 +7,7 @@ ResNet_crop_name, ResNet_crop_risk, ResNet_crop_disease, custom_model
 2. ResNet_crop_risk : 작물의 risk(진행정도)를 분류하기 위한 모델
 
 ## 사용되지 않은 모델 2가지 ##
-<u>작물의 이름은 모델을 구축했으나 필요없어서 사용하지 않음</u>
+<ins>작물의 이름은 모델을 구축했으나 필요없어서 사용하지 않음</ins>
 
 1. custom_model : 시도했으나 낮은 정확성을 이유로 탈락시킨 모델
 2. ResNet_crop_name : 작물의 종류를 분류함. 하지만 질병 분류 모델에서 이름을 알 수 있으므로 사용하지 않음
